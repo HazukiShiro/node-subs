@@ -1,0 +1,14 @@
+{
+  "name": "subs",
+  "version": "0.0.1",
+  "description": "Subtitles parser",
+  "main": "index.js",
+  "keywords": [
+    "subtitles",
+    "parser",
+    "ssa",
+    "ass"
+  ],
+  "author": "Shiro Hazuki <hazuki.shiro@gmail.com>",
+  "license": "Unlicense"
+}
