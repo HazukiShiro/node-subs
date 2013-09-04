@@ -10,5 +10,22 @@
     "ass"
   ],
   "author": "Shiro Hazuki <hazuki.shiro@gmail.com>",
-  "license": "Unlicense"
+  "license": "Unlicense",
+  "devDependencies": {
+    "mocha": "~1.12.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HazukiShiro/node-subs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HazukiShiro/node-subs/issues"
+  }
 }
